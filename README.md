@@ -7,11 +7,11 @@
  
 -包含搜索tiktok关键字… 
  
--Api地址(https://rapidapi.com/llbbmm/api/tiktok-download-video1/)。 
+-Api地址https://rapidapi.com/llbbmm/api/tiktok-download-video1/
  
--使用方法 
+ 使用方法 
 -首先，如果您还没有快速平台账户，请先注册该账户， 
--然后单击打开TikTok API(https://rapidapi.com/llbbmm/api/tiktok-download-video1/pricing)，订阅基本的免费程序，然后您可以使用它到您的工作 
+-然后单击打开 TikTok API https://rapidapi.com/llbbmm/api/tiktok-download-video1/pricing 订阅基本的免费程序，然后您可以使用它到您的工作 
 -如果您有任何问题，请通过电子邮件850784744@qq.com联系我
 
 ## Tiktok Video Feature Summary
