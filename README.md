@@ -12,7 +12,7 @@ the tiktok && douyin api in rapid
 
 - Firstly, if you do not already have a Rapid platform account, register the account first, 
 - Then click to open the [ TikTok API](https://rapidapi.com/liuzhaolong765481/api/tiktok-video-feature-summary/pricing) and subscribe to the basic free program and then you can use it to your work
-- If you have any questions, please contact me via email by 1552519081@qq.com
+- If you have any questions, please contact me via email by 850784744@qq.com
 
 
 ```angular2
