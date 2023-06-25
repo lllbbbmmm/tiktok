@@ -11,9 +11,9 @@
  
  ##使用方法 
  
--首先，如果您还没有快速平台账户，请先注册该账户 
+- 首先，如果您还没有快速平台账户，请先注册该账户 
 
--然后单击打开 TikTok API https://rapidapi.com/llbbmm/api/tiktok-download-video1/pricing 订阅 
+- 然后单击打开 TikTok API https://rapidapi.com/llbbmm/api/tiktok-download-video1/pricing 订阅 
 
 - 基本的免费程序，然后您可以使用它到您的工作
   
