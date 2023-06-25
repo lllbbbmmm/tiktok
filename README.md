@@ -1,5 +1,5 @@
 
-##Tiktok视频功能摘要
+## Tiktok视频功能总结
  
 -TikTok 获取高清没有水印的视频
  
@@ -9,7 +9,7 @@
  
 -Api地址https://rapidapi.com/llbbmm/api/tiktok-download-video1/
  
- ##使用方法 
+ ## 使用方法 
  
 - 首先，如果您还没有快速平台账户，请先注册该账户 
 
