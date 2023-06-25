@@ -19,11 +19,10 @@
   
 - 如果您有任何问题，请通过电子邮件850784744@qq.com联系我
 
+```angular2
 // php
 <?php
-
 $curl = curl_init();
-
 curl_setopt_array($curl, [
 	CURLOPT_URL => "https://tiktok-video-feature-summary.p.rapidapi.com/?url=https%3A%2F%2Fwww.tiktok.com%2F%40user954840753%2Fvideo%2F7229174351906573569&hd=1",
 	CURLOPT_RETURNTRANSFER => true,
@@ -37,36 +36,27 @@ curl_setopt_array($curl, [
 		"X-RapidAPI-Key: your api key"
 	],
 ]);
-
 $response = curl_exec($curl);
 $err = curl_error($curl);
-
 curl_close($curl);
-
 if ($err) {
 	echo "cURL Error #:" . $err;
 } else {
 	echo $response;
 }
-
 ```
 
 ```angular2
 // python 
 import http.client
-
 conn = http.client.HTTPSConnection("tiktok-video-feature-summary.p.rapidapi.com")
-
 headers = {
     'X-RapidAPI-Key': "your api key",
     'X-RapidAPI-Host': "tiktok-video-feature-summary.p.rapidapi.com"
 }
-
 conn.request("GET", "/?url=https%3A%2F%2Fwww.tiktok.com%2F%40user954840753%2Fvideo%2F7229174351906573569&hd=1", headers=headers)
-
 res = conn.getresponse()
 data = res.read()
-
 print(data.decode("utf-8"))
 ```
 
