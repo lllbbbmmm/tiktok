@@ -19,23 +19,6 @@
   
 - 如果您有任何问题，请通过电子邮件850784744@qq.com联系我
 
-## Tiktok Video Feature Summary
-
-the tiktok && douyin api in rapid 
-- Contains TikTok && HD videos without watermark 
-- Contains TikTok && douyin music and user, post, search, feeds, comments, followers, and trends.
-- Contains Search tiktok keywords ...
-
-- [The Api Address](https://rapidapi.com/llbbmm/api/tiktok-download-video1/).
-
-### Usage method
-
-- Firstly, if you do not already have a Rapid platform account, register the account first, 
-- Then click to open the [ TikTok API](https://rapidapi.com/llbbmm/api/tiktok-download-video1/pricing) and subscribe to the basic free program and then you can use it to your work
-- If you have any questions, please contact me via email by 850784744@qq.com
-
-
-```angular2
 // php
 <?php
 
